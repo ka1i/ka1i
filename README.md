@@ -20,12 +20,5 @@ Here are some ideas to get you started:
 - 🥅 2020 Goals: hunt job & Contribute more to Open Source projects
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ka1i&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ka1i&layout=compact)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ka1i&layout=compact" />
-</a>
-<a href="#">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" />
-</a>
