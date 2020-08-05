@@ -1,4 +1,4 @@
-### Hi there, I'm Mardan - aka [ka1i][mardan.wiki](www.mardan.wiki) 👋
+### Hi there, I'm Mardan(ka1i) - aka [mardan.wiki](www.mardan.wiki) 👋
 
 <!--
 **ka1i/ka1i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: hunt job & Contribute more to Open Source projects
 <br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ka1i&layout=compact&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
