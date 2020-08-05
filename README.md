@@ -22,6 +22,11 @@ Here are some ideas to get you started:
 
 ### 📕 Blog posts What's New
 <!-- BLOG-POST-LIST:START -->
+- [Build Log](http://mardan.wiki/website/2020-07/Build-Log/)
+- [LinuxMint安装conky](http://mardan.wiki/website/2020-07/LinuxMint%E5%AE%89%E8%A3%85conky/)
+- [IDEA Start a SSM project](http://mardan.wiki/website/2020-07/IDEA-Start-a-SSM-project/)
+- [Linux美化grub主题](http://mardan.wiki/website/2020-07/Linux%E7%BE%8E%E5%8C%96grub%E4%B8%BB%E9%A2%98/)
+- [Tips in Linux](http://mardan.wiki/website/2020-07/Tips-in-Linux/)
 <!-- BLOG-POST-LIST:END -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ka1i&layout=compact)
