@@ -20,5 +20,9 @@ Here are some ideas to get you started:
 - 🥅 2020 Goals: hunt job & Contribute more to Open Source projects
 <br>
 
+# Blog posts What's New
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ka1i&layout=compact)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ka1i&show_icons=true)
