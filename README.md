@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ka1i&layout=compact)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ka1i&show_icons=true)
