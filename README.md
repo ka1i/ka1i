@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: hunt job & Contribute more to Open Source projects
 <br>
+
 ### 📕 Blog posts What's New
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
