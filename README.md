@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love to 
 -->
 
+[![HitCount](http://hits.dwyl.com/ka1i/ka1i.svg)](http://hits.dwyl.com/ka1i/ka1i)
+
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: hunt job & Contribute more to Open Source projects
