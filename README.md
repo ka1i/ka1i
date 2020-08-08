@@ -1,4 +1,4 @@
-### Hi there, I'm Mardan(ka1i) - aka [mardan.wiki](www.mardan.wiki) 👋
+### Hi there, I'm Mardan(ka1i) - aka [mardan.wiki](https://www.mardan.wiki) 👋
 
 <!--
 **ka1i/ka1i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
