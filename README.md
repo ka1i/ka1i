@@ -12,7 +12,7 @@ A DevOps Engineer.</h4>
 
 ### Startup Coding:
 
-```go
+```bash
 type CodeTemplate struct {
   WpfApp          ka1i     `description:"Windows WPF Desktop App"`
   WinUIApp        ka1i     `description:"Windows WinUI Desktop App"`
@@ -22,7 +22,7 @@ type CodeTemplate struct {
 
 ### DevOps Coding:
 
-```go
+```bash
 type DevOps struct {
   dockerfile             ka1i     `description:"my docker file reference"`
   docker-compose         ka1i     `description:"my docker compose reference"`
@@ -32,7 +32,7 @@ type DevOps struct {
 
 ### Public Package Coding:
 
-```go
+```bash
 type Package struct {
   jasypt-go             wispeeer     `description:"configs file Encryption AND Decryption"`
 }
